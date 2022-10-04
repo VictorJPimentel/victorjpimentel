@@ -2,7 +2,8 @@
 
 - 👋 Hi, I’m Victor Pimentel.
 - 💼 I'm currently a SWE Intern @ Headstarter. 
-- 🙋🏽‍♂️ Before SWE, I was a Senior Manager (Business Operations for IT Staffing) and a Research Scientist (SCAs and HIV-1).
+- 🎓 I'm a recent grad in Computer Science and Communication Technology
+- 🙋🏽‍♂️ I'm a Cloud Engineer Entusiast, I hope, to make th
 - 📫 victtorjotapimentel@gmail.com | [LinkedIn](https://www.linkedin.com/in/victor-josue-pimentel-3a5b6a199/) | [Personal Website](victorjota.com) | [Resume](https://github.com/VictorJPimentel/resume/blob/main/Victor%20Pimentel%20Resume%202022.pdf)
 
 <!--
