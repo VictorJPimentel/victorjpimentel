@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I’m Victor Pimentel.
 
-- 👋 Hi, I’m Victor Pimentel.
 - 💼 I'm currently a SWE @ The Difference. 
 - 🎓 I'm a recent grad in Computer Science and Communication Technology
 - 🙋🏽‍♂️ I'm a Cloud Engineer Enthusiast, hope to make commincations better!
