@@ -1,6 +1,7 @@
 ### Hi there 👋 I’m Victor Pimentel.
 
 - 💼 I'm currently a SWE @ The Difference. 
+- 🔭 My goal is to provide everyone with equal capabilities regardless of device.
 - 🎓 I'm a recent grad in Computer Science and Communication Technology
 - 🙋🏽‍♂️ I'm a Cloud Engineer Enthusiast, hope to make commincations better!
 - 📫 victorjotapimentel@gmail.com | [LinkedIn](https://www.linkedin.com/in/victor-josue-pimentel-3a5b6a199/) | [Personal Website](https://victorjota.com/) | [Resume](https://github.com/VictorJPimentel/resume/blob/main/Victor%20Pimentel%20Resume%202022.pdf)
