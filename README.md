@@ -1,4 +1,4 @@
-### Hi there 👋 I’m Vi Pimentel.
+### Hi there 👋 I’m Victor Pimentel.
 
 - 💼 I'm currently a SWE @ The Difference. 
 - 🔭 My goal is to provide everyone with equal capabilities regardless of device.
