@@ -1,6 +1,6 @@
 ### Hi there 👋 I’m Victor Pimentel.
 
-- 💼 I'm currently a SWE @ Citi and Co-Founder @ The Difference
+- 💼 I'm currently a SWE @ Citi and Founder @ The Difference
 - 🔭 My goal is to provide everyone with equal capabilities regardless of device.
 - 🎓 I'm a recent grad in Computer Science and Communication Technology
 - 🙋🏽‍♂️ I'm a Cloud EngineerEnthusiast, hope to make commincations better!
