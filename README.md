@@ -3,7 +3,7 @@
 - 💼 I'm currently a Apps Dev Analyst @ Citi and Founder @ The Difference App
 - 🔭 My goal is to provide everyone with equal capabilities regardless of device.
 - 🎓 I'm a recent grad in Computer Science and Communication Technology
-- 🙋🏽‍♂️ I'm a Cloud EngineerEnthusiast, hope to make commincations better!
+- 🙋🏽‍♂️ I'm a Cloud Engineer Enthusiast, hope to make commincations better!
 - 📫 victorjotapimentel@gmail.com | [LinkedIn](https://www.linkedin.com/in/victor-josue-pimentel-3a5b6a199/) | [Personal Website](https://victorjota.com/) | [Resume](https://github.com/VictorJPimentel/resume/blob/main/Victor%20Pimentel%20Resume%202022.pdf)
 
 <!--
